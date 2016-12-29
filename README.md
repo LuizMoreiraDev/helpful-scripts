@@ -1,2 +1,3 @@
-# helpful-scripts
-Some helpful scripts
+# Some helpful scripts
+
+Feel free to contribute
